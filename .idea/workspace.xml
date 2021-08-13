@@ -21,7 +21,11 @@
     </configurations>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8b0763dc-4302-41c6-90e1-9ef3d8fda50e" name="Default Changelist" comment="" />
+    <list default="true" id="8b0763dc-4302-41c6-90e1-9ef3d8fda50e" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/FaceRecognizer6/JNIFaceRecognizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FaceRecognizer6/JNIFaceRecognizer.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Landmarker/JNIFaceLandmarker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarker/JNIFaceLandmarker.cpp" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -151,7 +155,7 @@
       <workItem from="1627983657359" duration="877000" />
       <workItem from="1628156022438" duration="1169000" />
       <workItem from="1628211406838" duration="1000" />
-      <workItem from="1628825248983" duration="4691000" />
+      <workItem from="1628825248983" duration="6312000" />
     </task>
     <servers />
   </component>

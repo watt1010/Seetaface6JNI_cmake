@@ -88,7 +88,7 @@ JNIEXPORT void JNICALL Java_com_seeta_sdk_FaceRecognizer_construct__Lcom_seeta_s
 	auto native_device = SeetaDevice::SEETA_DEVICE_AUTO;
 	 
 	seeta::ModelSetting model_setting;
-	model_setting.device = native_device.c_str();
+	model_setting.device = native_device;
 	model_setting.id = id;
 	model_setting.append(native_model);
 	
