@@ -14,3 +14,11 @@
 <br/>
 各个模块都编译完成之后会在build文件下产生我们所需要的so库文件把这些文件都放到```jniLibs```目录下
 
+# JNI库文件编译
+以FaceAntiSpoofingX6为例：<br/>
+```cd FaceAntiSpoofingX6```
+
+```cmake -D CMAKE_BUILD_TYPE=Debug```
+
+```make -j8```
+编译完成，逐个编译吧
