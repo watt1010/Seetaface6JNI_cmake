@@ -1,4 +1,4 @@
-#  **此库是根据SeetaFace6JNI官方开源版本开发出来的东西**
+#  **此库是根据SeetaFace6JNI官方开源版本开发出来的东西，如果需要商务技术支持请联系：QQ：1263593223**
 研究Seetaface6有一段时间了，我希望把seetaface6服务化，好替代类似于百度这样的API（主要是因为他们收费）
 但是找了好久，缺没有JNI相关的资料，虽然有一个JNI可以跑的例子（JSeetaface6），但是还是WINDOWS系统的，没有给出linux系统的so文件别逼无奈。于是自己开始学习了seetaface还JNI
 
