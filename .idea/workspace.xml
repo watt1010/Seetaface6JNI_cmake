@@ -22,9 +22,69 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="8b0763dc-4302-41c6-90e1-9ef3d8fda50e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/FaceAntiSpoofingX6/java/com/seeta/sdk/FaceAntiSpoofing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceAntiSpoofingX6/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceAntiSpoofingX6/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceAntiSpoofingX6/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceAntiSpoofingX6/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/FaceDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceBoxes/java/com/seeta/sdk/SeetaSize.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/FaceDatabase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/FaceRecognizer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceRecognizer6/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracker6/java/com/seeta/FaceTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracker6/java/com/seeta/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/FaceTracker6/java/com/seeta/SeetaTrackingFaceInfo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/FaceLandmarker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Landmarker/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoseEstimator6/java/com/seeta/sdk/PoseEstimator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoseEstimator6/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PoseEstimator6/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfBirghtness.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfClarity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfIntegrity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfLBN.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfPose.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfPoseEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/QualityOfResolution.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/QualityAssessor3/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaAgePredictor/java/com/seeta/sdk/AgePredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaAgePredictor/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaAgePredictor/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaAgePredictor/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaAgePredictor/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaEyeStateDetector/java/com/seeta/sdk/EyeStateDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaEyeStateDetector/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaEyeStateDetector/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaEyeStateDetector/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaEyeStateDetector/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaGenderPredictor/java/com/seeta/sdk/GenderPredictor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaGenderPredictor/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaGenderPredictor/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaGenderPredictor/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaGenderPredictor/java/com/seeta/sdk/SeetaPointF.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaMaskDetector/java/com/seeta/sdk/MaskDetector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaMaskDetector/java/com/seeta/sdk/SeetaDevice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaMaskDetector/java/com/seeta/sdk/SeetaImageData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaMaskDetector/java/com/seeta/sdk/SeetaModelSetting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SeetaMaskDetector/java/com/seeta/sdk/SeetaRect.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/FaceRecognizer6/JNIFaceRecognizer.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/FaceRecognizer6/JNIFaceRecognizer.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Landmarker/JNIFaceLandmarker.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Landmarker/JNIFaceLandmarker.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -53,13 +113,17 @@
     <property name="cf.first.check.clang-format" value="false" />
     <property name="cidr.known.project.marker" value="true" />
     <property name="cmake.loaded.for.project" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/SeetaMaskDetector" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/FaceRecognizer6" />
+      <recent name="D:\ai_projects\SeetaFace6JNI_cmake\SeetaMaskDetector" />
+      <recent name="D:\ai_projects\SeetaFace6JNI_cmake\SeetaGenderPredictor" />
+      <recent name="D:\ai_projects\SeetaFace6JNI_cmake\SeetaEyeStateDetector" />
+      <recent name="D:\ai_projects\SeetaFace6JNI_cmake\SeetaAgePredictor" />
+      <recent name="D:\ai_projects\SeetaFace6JNI_cmake\QualityAssessor3" />
     </key>
   </component>
   <component name="RunManager" selected="CMake Application.FaceAntiSpoofingX6_java">
@@ -155,7 +219,7 @@
       <workItem from="1627983657359" duration="877000" />
       <workItem from="1628156022438" duration="1169000" />
       <workItem from="1628211406838" duration="1000" />
-      <workItem from="1628825248983" duration="6312000" />
+      <workItem from="1628825248983" duration="7344000" />
     </task>
     <servers />
   </component>
